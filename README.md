@@ -1,6 +1,6 @@
 # npmdoc-airbnb-style
 
-#### api documentation for  [airbnb-style (v2.0.0)](https://github.com/airbnb/javascript)  [![npm package](https://img.shields.io/npm/v/npmdoc-airbnb-style.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-airbnb-style) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-airbnb-style.svg)](https://travis-ci.org/npmdoc/node-npmdoc-airbnb-style)
+#### basic api documentation for  [airbnb-style (v2.0.0)](https://github.com/airbnb/javascript)  [![npm package](https://img.shields.io/npm/v/npmdoc-airbnb-style.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-airbnb-style) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-airbnb-style.svg)](https://travis-ci.org/npmdoc/node-npmdoc-airbnb-style)
 
 #### A mostly reasonable approach to JavaScript.
 
@@ -62,7 +62,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "bin": {}
 }
 ```
 
